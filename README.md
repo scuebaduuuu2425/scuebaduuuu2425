@@ -16,7 +16,7 @@
 - 💡 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
 - 📚 Preparing for **NIMCET**  
 - ⚡ Fun Fact: I love cricket 🏏, photography 📸, and singing 🎤
-- My instagram profile:https://wwww.instagram.com/aaswaaaaa.zip
+- My instagram profile:https://wwww.instagram.com/asr.arvh
 
 ---
 
@@ -24,8 +24,6 @@
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
@@ -63,7 +61,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -84,7 +81,7 @@
 - Neural Networks & Deep Learning  
 - Natural Language Processing (NLP)  
 - Regression & Clustering  
-- Project Management  
+- How to make AI Agents 
 
 ---
 
