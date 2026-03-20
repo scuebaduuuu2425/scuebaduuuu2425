@@ -15,7 +15,7 @@
 - 🎓 **BCA Student** at N.C. Autonomous College, Jajpur  
 - 💡 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
 - 📚 Preparing for **NIMCET**  
-- ⚡ Fun Fact: I love cricket 🏏, photography 📸, and singing 🎤
+- ⚡ Fun Fact: I love cricket 🏏, photography 📸
 - My instagram profile:https://wwww.instagram.com/asr.arvh
 
 ---
@@ -24,19 +24,17 @@
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
 
 
-#### Tools & Platforms
+
+#### Tools 
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -46,9 +44,6 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logoColor=white)
-![Locomotive.js](https://img.shields.io/badge/Locomotive.js-141414?style=for-the-badge&logoColor=white)
-![GeoGebra](https://img.shields.io/badge/GeoGebra-2E7BE6?style=for-the-badge&logo=geogebra&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -62,7 +57,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0055FF?style=for-the-badge&logo=figma&logoColor=fff) 
 
 
 
@@ -78,10 +73,7 @@
 ---
 
 ### 🌱 Currently Learning
-- Neural Networks & Deep Learning  
-- Natural Language Processing (NLP)  
-- Regression & Clustering  
-- How to make AI Agents 
+- Agentic AI
 
 ---
 
