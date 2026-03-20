@@ -22,7 +22,7 @@
 
 ### 🛠 Tech Stack
 
-#### Languages
+#### Language
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
@@ -30,7 +30,7 @@
 
 
 
-#### Tools 
+#### Tools & Platforms
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
