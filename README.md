@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+Scuebaduuuu;AI+%26+Machine+Learning+Enthusiast;BCA+Student+%7C+IIT+Ropar+Scholar;Future+AI+ML+Engineer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+Scuebaduuuu;AI+%26+Machine+Learning+Enthusiast;BCA+Student+%7C+Certified+at+IIT+Ropar; alt="Typing Animation">
 </h1>
 
 ---
@@ -13,10 +13,10 @@
 ### 🚀 About Me
 - I'm the protagonist of my story 
 - 🎓 **BCA Student** at N.C. Autonomous College, Jajpur  
-- 💡 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
-- 📚 Preparing for **NIMCET**  
-- ⚡ Fun Fact: I love cricket 🏏, photography 📸
-- My instagram profile:https://wwww.instagram.com/asr.arvh
+- ♦️ **MAJOR IN AI** certified at IIT ROPAR  
+- 📚 Preparing for **NIMCET 2027**  
+- ⚡ Fun Fact: Playing cricket 🏏, photography 📸
+- My Instagram Profile:https://wwww.instagram.com/asr.arvh
 
 ---
 
@@ -45,8 +45,7 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 
 
@@ -74,7 +73,7 @@
 
 ### 🌱 Currently Learning
 - Agentic AI
-
+- LLM 
 ---
 
 ### 💡 Random Dev Quote
