@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/scuebaduuuu/scuebaduuuu/blob/main/banner.gif" alt="AI Banner" width="100%">
+  <img src="https://github.com/aswasana/aswasana/blob/main/banner.gif" alt="AI Banner" width="100%">
 </p>
 
 <!-- Typing Animation -->
